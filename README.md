@@ -3,3 +3,5 @@ A video game developed for Winter Quarter CS 32 at UCLA. Play as Socrates, a sci
 
 All game logic including all game object classes is handled by StudentWorld.cpp and Actor.cpp along with their header files: StudentWorld.h and Actor.h.
 Graphics are handled by the remaining files. 
+
+![GamePic](/Images/GameShot)
