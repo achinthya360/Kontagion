@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E13538A8-953D-471A-896A-869157A80C60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E13538A8-953D-471A-896A-869157A80C60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Kontagion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Kontagion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Kontagion</string>
+			<key>timeStartedRecording</key>
+			<real>604560403.82831502</real>
+			<key>timeStoppedRecording</key>
+			<real>604560405.66113198</real>
+			<key>title</key>
+			<string>Build Kontagion</string>
+			<key>uniqueIdentifier</key>
+			<string>E13538A8-953D-471A-896A-869157A80C60</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
